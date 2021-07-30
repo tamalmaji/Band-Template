@@ -1,0 +1,27 @@
+/* Navbar */
+.bg{
+    background-color: #000!important;
+}
+.nav-item a, .navbar-brand{
+    color: white!important;
+}
+.nav-item a:hover, .navbar-brand:hover{
+    background: white;
+    color: #000!important;
+}
+.float{
+    float:right!important
+}
+
+/* card */
+.card{
+    width: 260px;
+    height: 400px;
+}
+/* footer */
+.fa{
+    color: rgba(0, 0, 0, 0.699);
+}
+.fa:hover{
+    color: rgba(0, 0, 0, 0.377);
+}
